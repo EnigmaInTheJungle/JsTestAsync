@@ -1,0 +1,7 @@
+{
+  "name": "asynctest",
+  "scripts": { "test": "jest" },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
